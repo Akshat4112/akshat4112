@@ -1,4 +1,4 @@
-### Hi there 👋
+### Machine Learning Engineer | 2x-Kaggle Expert | Intel Innovator | Author
 
 <!--
 **Akshat4112/akshat4112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
