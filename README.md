@@ -4,6 +4,11 @@
 **Akshat4112/akshat4112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+Hi, I'm Akshat, thanks for taking time out and checking my profile. I'm a Machine Learning Engineer, with an insatiable intellectual curiosity, and the ability to mine hidden gems located within a large set of data through data analysis, followed by feature engineering and then training model and putting it in production followed by deployment on AWS or GCP.
+
+As a machine-learning engineer, I enjoy bridging the gap between machine and intelligence, combining my technical knowledge over real-life problems to create an intelligent product. My goal is to always build products that are intelligent and efficient under the hood while providing engaging, analytical, and result-oriented user experiences.
+
+When I'm not in front of a computer screen, I'm probably thinking over an idea, around the chessboard, or spending time on knowledge acquisition via book or MOOC. 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
