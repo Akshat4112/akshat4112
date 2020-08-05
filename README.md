@@ -1,20 +1,15 @@
 ### Hi there, I'm Akshat - aka [akshat4112](https://www.github.com/akshat4112) [website](https://akshat4112.github.io) 👋
 
+## I'm a Machine Learning Engineer, 2x-Kaggle Expert, Intel Innovator, and Author
 
-#### Machine Learning Engineer | 2x-Kaggle Expert | Intel Innovator | Author
-
-<!--
-**Akshat4112/akshat4112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [voicenet](https://www.github.com/robofied/voicenet) @ [robofied](https://www.github.com/robofied)
+<!-- - 🌱 I’m currently learning  -->
+- 👯 I’m looking to collaborate on machine learning and natural language projects including speech models and healthcareNLP.
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Ask me about healthcare ml, deep learning, mathematics, and finance.
+<!-- - 📫 How to reach me: ...
+- 😄 Pronouns: ...-->
+- ⚡ Fun fact: I love to cook, and play chess.
 
 Hi, I'm Akshat, thanks for taking time out and checking my profile. I'm a **Machine Learning Engineer**, with an insatiable intellectual curiosity, and the ability to mine hidden gems located within a large set of data through data analysis, followed by feature engineering and then training model and putting it in production followed by deployment on **AWS** or **GCP**.
 
