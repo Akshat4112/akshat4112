@@ -17,6 +17,8 @@
 [<img align="left" alt="Akshat Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/akshat_rg)
 [<img align="left" alt="Akshat Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/akshat-rg/)
 [<img align="left" alt="Akshat Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/thisisakshatgupta/)
+[<img align="left" alt="Akshat Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/akshat4112/)
+
 
 <br />
 
