@@ -39,6 +39,8 @@ As a machine-learning engineer, I enjoy bridging the gap between machine and int
 
 When I'm not in front of a computer screen, I'm probably thinking over an idea, around the chessboard, or spending time on knowledge acquisition via book or **MOOC**. 
 
+#### Email: akshat@robofied.com
+
 <img align="left" alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshat4112&show_icons=true&hide_border=true" />
 
-Email: akshat@robofied.com
+
