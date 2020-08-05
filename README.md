@@ -1,4 +1,4 @@
-### Hi there, I'm Akshat - aka [akshat4112](https://www.github.com/akshat4112) [website](https://akshat4112.github.io) 👋
+### Hi there, I'm Akshat - aka [akshat4112](https://www.github.com/akshat4112), [website](https://akshat4112.github.io) 👋
 
 ## I'm a Machine Learning Engineer, 2x-Kaggle Expert, Intel Innovator, and Author
 
@@ -10,6 +10,15 @@
 <!-- - 📫 How to reach me: ...
 - 😄 Pronouns: ...-->
 - ⚡ Fun fact: I love to cook, and play chess.
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://akshat4112.github.io]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/akshat_rg]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/akshat-rg/]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/thisisakshatgupta/]
+
+<br />
 
 Hi, I'm Akshat, thanks for taking time out and checking my profile. I'm a **Machine Learning Engineer**, with an insatiable intellectual curiosity, and the ability to mine hidden gems located within a large set of data through data analysis, followed by feature engineering and then training model and putting it in production followed by deployment on **AWS** or **GCP**.
 
