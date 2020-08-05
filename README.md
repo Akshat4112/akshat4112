@@ -1,4 +1,5 @@
-# Akshat Gupta
+### Hi there, I'm Akshat - aka [akshat4112][website](https://akshat4112.github.io) 👋
+
 
 #### Machine Learning Engineer | 2x-Kaggle Expert | Intel Innovator | Author
 
