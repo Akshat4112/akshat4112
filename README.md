@@ -2,7 +2,7 @@
 
 ## I'm a Machine Learning Engineer, 2x-Kaggle Expert, Intel Innovator, and Author
 
-- 🔭 I’m currently working on [voicenet](https://www.github.com/robofied/voicenet) @ [robofied](https://www.github.com/robofied)
+- 🔭 I’m currently working on [Voicenet](https://www.github.com/robofied/voicenet)- Comprehensive Voice and Speech Library @ [robofied](https://www.github.com/robofied)
 <!-- - 🌱 I’m currently learning  -->
 - 👯 I’m looking to collaborate on machine learning and natural language projects including speech models and healthcareNLP.
 <!-- - 🤔 I’m looking for help with ... -->
