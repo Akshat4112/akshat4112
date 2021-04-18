@@ -21,13 +21,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akshat_rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="akshat_rg" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshat-rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="akshat-rg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/6118024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="6118024" height="30" width="40" /></a>
-<a href="https://kaggle.com/akshat4112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/kaggle.svg" alt="akshat4112" height="30" width="40" /></a>
-<a href="https://instagram.com/thisisakshatgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="thisisakshatgupta" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/akshat_rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="akshat_rg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akshat4112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="akshat4112" height="30" width="40" /></a>
+<a href="https://twitter.com/akshat_rg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.18.0/icons/twitter.svg" alt="akshat_rg" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akshat-rg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.18.0/icons/linkedin.svg" alt="akshat-rg" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/6118024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.18.0/icons/stackoverflow.svg" alt="6118024" height="30" width="40" /></a>
+<a href="https://kaggle.com/akshat4112" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.18.0/icons/kaggle.svg" alt="akshat4112" height="30" width="40" /></a>
+<a href="https://instagram.com/thisisakshatgupta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.18.0/icons/instagram.svg" alt="thisisakshatgupta" height="30" width="40" /></a>
+<!-- <a href="https://www.hackerrank.com/akshat_rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="akshat_rg" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akshat4112" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/leet-code.svg" alt="akshat4112" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
