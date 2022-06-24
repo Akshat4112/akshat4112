@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/akshat_rg" target="blank"><img src="https://img.shields.io/twitter/follow/akshat_rg?logo=twitter&style=for-the-badge" alt="akshat_rg" /></a> </p>
 
-- 🔭 I’m currently working on **Multimodal Machine Learning models for Text and Speech**
-
-- 🌱 I’m currently learning **MLOps, ML Model Interpretebility, Model Monitoring, Function Optimization**
-
-- 👯 I’m looking to collaborate on [startml](https://github.com/Robofied/startml)
-
 - 👨‍💻 All of my projects are available at [https://github.com/akshat4112](https://github.com/akshat4112)
 
 - 💬 Ask me about **Mathematics, Data Science, Machine Learning**
