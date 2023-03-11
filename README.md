@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/akshat_rg" target="blank"><img src="https://img.shields.io/twitter/follow/akshat_rg?logo=twitter&style=for-the-badge" alt="akshat_rg" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/akshat4112](https://github.com/akshat4112)
+- 👨‍💻 All of my projects are available at [https://github.com/akshat4112](https://github.com/Akshat4112?tab=repositories)
 
 - 💬 Ask me about **Mathematics, Data Science, Machine Learning**
 
