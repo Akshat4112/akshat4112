@@ -29,11 +29,8 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshat4112&show_icons=true&count_private=true" alt="Akshat4112's GitHub stats" />
-</p>
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshat4112&layout=compact" alt="Top languages used by Akshat4112" />
-</p>
-<p align="left">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshat4112" alt="Akshat4112's GitHub streak" />
+</p>
+<p align="left">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=akshat4112&area=true&hide_border=true" alt="Akshat4112's contribution graph" />
 </p>
