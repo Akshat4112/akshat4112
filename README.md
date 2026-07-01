@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Mathematics, Data Science, Machine Learning**
 
-- 📫 How to reach me **akshat@robofied.com**
+- 📫 How to reach me **akshat41121995@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mXE5Gufm3-xPSTrwxzu3exk16cqUL4SL/view](https://drive.google.com/file/d/1mXE5Gufm3-xPSTrwxzu3exk16cqUL4SL/view)
 
