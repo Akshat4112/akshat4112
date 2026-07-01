@@ -20,7 +20,6 @@ explicitly asks — it would not belong here.
 | File | Purpose |
 | --- | --- |
 | `README.md` | The profile card rendered on the GitHub profile page. This is the primary artifact. |
-| `newreadme.md` | Empty scratch/placeholder file. Safe to ignore; confirm with the user before deleting. |
 | `CLAUDE.md` | This file. |
 
 ## The `README.md`
@@ -38,6 +37,12 @@ inline HTML). Its structure, top to bottom:
    easy re-enabling.
 5. **"Languages and Tools"** — a row of technology logos, each an `<a>`/`<img>`
    pointing at an external SVG (devicon, vectorlogo.zone, worldvectorlogo, etc.).
+6. **"GitHub Stats"** — dynamically generated cards from
+   `github-readme-stats` (stats + top languages) and
+   `github-readme-streak-stats`. These are live third-party services; the shared
+   public instances are occasionally rate-limited (HTTP 503), which can make a
+   card fail to render. If that becomes a problem, self-host the generator and
+   point the URLs at your own instance.
 
 ### Conventions to preserve when editing
 
