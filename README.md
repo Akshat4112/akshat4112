@@ -45,10 +45,10 @@ A curated collection of resources for natural language processing, from foundati
 
 I write practical, technically reviewed articles about production AI systems, including:
 
-- [LLM agents](https://akshat4112.github.io/posts/llm_agents/)
-- [Evaluating large language models](https://akshat4112.github.io/posts/evaluating_llms/)
-- [Model extraction attacks](https://akshat4112.github.io/posts/model_extraction_attack/)
-- [Speaker anonymisation](https://akshat4112.github.io/posts/speaker_anonymization/)
+- [LLM agents](https://akshat4112.github.io/posts/llm-agents/)
+- [Evaluating large language models](https://akshat4112.github.io/posts/evaluating-llms/)
+- [Model extraction attacks](https://akshat4112.github.io/posts/model-extraction-attacks/)
+- [Speaker anonymisation](https://akshat4112.github.io/posts/speaker-anonymization/)
 
 Browse all articles on my [portfolio](https://akshat4112.github.io/posts/).
 
