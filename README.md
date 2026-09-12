@@ -16,25 +16,34 @@ I am particularly interested in turning research ideas into systems that can be 
 - AI security, privacy, and auditability
 - Speech processing and speaker anonymisation
 
-## Selected work
+## Research and engineering projects
 
 ### [GlyphNet](https://akshat4112.github.io/Glyphnet/)
 
-Research on detecting homoglyph phishing domains by rendering domain names as images and classifying them with an attention-based convolutional network.
+A visual approach to detecting homoglyph phishing domains. Domain names are rendered as images and classified with an attention-based convolutional network.
 
-[Paper](https://arxiv.org/abs/2306.10392) · [Code](https://github.com/Akshat4112/Glyphnet) · [Dataset](https://huggingface.co/datasets/Akshat4112/Glyphnet)
+**My contribution:** research, dataset construction, model development, and evaluation.
 
-### [Speaker Diffusion](https://github.com/Akshat4112/speaker-diffusion)
+[Project page](https://akshat4112.github.io/Glyphnet/) · [Paper](https://arxiv.org/abs/2306.10392) · [Code](https://github.com/Akshat4112/Glyphnet) · [Dataset](https://huggingface.co/datasets/Akshat4112/Glyphnet)
 
-An experimental diffusion-based approach to speaker anonymisation, exploring how speech identity can be transformed while preserving useful linguistic content.
+### [SpeakerDiff](https://github.com/Akshat4112/speaker-diffusion)
 
-### [Research paper presentations](https://github.com/Akshat4112/research-paper-presentations)
+An experimental diffusion model for generating speaker embeddings, developed to study speaker anonymisation and the privacy–utility trade-off in speech systems.
 
-Technical presentations and notes that explain machine-learning research across language, vision, speech, and generative modelling.
+**Focus:** diffusion modelling, speaker representations, anonymisation, and speech synthesis experiments.
 
-### [Awesome NLP Resources](https://github.com/Akshat4112/Awesome-NLP-Resources)
+[Code and experiments](https://github.com/Akshat4112/speaker-diffusion) · [Technical article](https://akshat4112.github.io/posts/speaker-anonymization/)
 
-A curated collection of resources for natural language processing, from foundational methods to modern language models.
+### [Machine-learning case studies](https://github.com/Akshat4112/machine-learning-case-studies)
+
+A collection of reproducible notebooks covering classical machine learning and deep learning across NLP, computer vision, forecasting, and tabular problems.
+
+[Explore the notebooks](https://github.com/Akshat4112/machine-learning-case-studies)
+
+## Research notes and learning resources
+
+- [Research paper presentations](https://github.com/Akshat4112/research-paper-presentations) — presentations from my MSc in Computational Linguistics, covering speech, NLP, psycholinguistics, parsing, and machine translation.
+- [Awesome NLP Resources](https://github.com/Akshat4112/Awesome-NLP-Resources) — a curated collection of foundational and modern NLP material.
 
 ## Open datasets
 
