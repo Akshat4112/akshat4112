@@ -2,9 +2,9 @@
 
 **Applied AI engineer and researcher**
 
-I build and study reliable AI systems for language, documents, speech, and security. My work spans production generative AI, retrieval-augmented generation, agentic workflows, evaluation, knowledge systems, and privacy-aware machine learning.
+I build production AI systems at additiv, working from Stuttgart, Germany. My current focus is agentic workflows and document intelligence for finance and insurance: grounding outputs in evidence, validating structured data, and evaluating complete systems.
 
-I am particularly interested in turning research ideas into systems that can be evaluated, observed, and trusted in real-world settings.
+My earlier work spans NLP, speech, computer vision, and adversarial ML. I care about making AI systems observable, testable, and useful in real workflows.
 
 [Portfolio](https://akshat4112.github.io/) · [Writing](https://akshat4112.github.io/posts/) · [Publications](https://akshat4112.github.io/publications/) · [LinkedIn](https://www.linkedin.com/in/akshat-rg/) · [Kaggle](https://www.kaggle.com/akshat4112)
 
@@ -17,6 +17,14 @@ I am particularly interested in turning research ideas into systems that can be 
 - Speech processing and speaker anonymisation
 
 ## Research and engineering projects
+
+### [PDF Tools](https://akshat4112.github.io/pdf-tools/)
+
+A public browser application with 14 tools for reading, organising, and converting PDFs. Selected documents are processed on the device; loading the site and its assets still connects to GitHub Pages.
+
+**Engineering focus:** independent validation of downloaded outputs, browser resource cleanup, and explicit limits on supported document features.
+
+[Open application](https://akshat4112.github.io/pdf-tools/) · [Code](https://github.com/Akshat4112/pdf-tools) · [Engineering case study](https://akshat4112.github.io/posts/pdf-tools-output-validation/)
 
 ### [GlyphNet](https://akshat4112.github.io/Glyphnet/)
 
@@ -40,6 +48,11 @@ A collection of reproducible notebooks covering classical machine learning and d
 
 [Explore the notebooks](https://github.com/Akshat4112/machine-learning-case-studies)
 
+## In development
+
+- **[ImmoPilot DE](https://github.com/Akshat4112/immopilot-de) — unreleased:** German property-purchase, financing, and scenario comparison. Version 1 release-readiness work is in progress.
+- **[NettoPilot DE](https://github.com/Akshat4112/nettopilot-de) — in development:** a German salary calculator and job-offer comparison tool, with application foundations and calculation work in progress.
+
 ## Research notes and learning resources
 
 - [Research paper presentations](https://github.com/Akshat4112/research-paper-presentations) — presentations from my MSc in Computational Linguistics, covering speech, NLP, psycholinguistics, parsing, and machine translation.
@@ -52,8 +65,9 @@ A collection of reproducible notebooks covering classical machine learning and d
 
 ## Technical writing
 
-I write practical, technically reviewed articles about production AI systems, including:
+I write technical notes and case studies about document software and production AI systems, including:
 
+- [PDF Tools: checking the download, not just the preview](https://akshat4112.github.io/posts/pdf-tools-output-validation/)
 - [LLM agents](https://akshat4112.github.io/posts/llm-agents/)
 - [Evaluating large language models](https://akshat4112.github.io/posts/evaluating-llms/)
 - [Model extraction attacks](https://akshat4112.github.io/posts/model-extraction-attacks/)
@@ -61,9 +75,13 @@ I write practical, technically reviewed articles about production AI systems, in
 
 Browse all articles on my [portfolio](https://akshat4112.github.io/posts/).
 
+## Current stack
+
+`Python` · `Azure OpenAI` · `Agno` · `Langfuse` · `Pydantic` · `uv` · `Docker`
+
 ## Working areas
 
-`Python` · `PyTorch` · `TensorFlow` · `LLM systems` · `RAG` · `AI agents` · `NLP` · `speech processing` · `knowledge graphs` · `MLOps` · `Docker` · `AWS`
+`LLM systems` · `RAG` · `AI agents` · `Evaluation` · `Document intelligence` · `PyTorch` · `TensorFlow` · `NLP` · `Speech processing` · `Knowledge graphs` · `MLOps` · `AWS`
 
 ## Contact
 
